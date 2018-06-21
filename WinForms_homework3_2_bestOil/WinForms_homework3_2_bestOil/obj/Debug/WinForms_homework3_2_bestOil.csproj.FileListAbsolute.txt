@@ -1,0 +1,10 @@
+D:\Академия ШАГ\Windows Forms\WinForms_code\WinForms_homework3_2_bestOil\WinForms_homework3_2_bestOil\bin\Debug\WinForms_homework3_2_bestOil.exe.config
+D:\Академия ШАГ\Windows Forms\WinForms_code\WinForms_homework3_2_bestOil\WinForms_homework3_2_bestOil\bin\Debug\WinForms_homework3_2_bestOil.exe
+D:\Академия ШАГ\Windows Forms\WinForms_code\WinForms_homework3_2_bestOil\WinForms_homework3_2_bestOil\bin\Debug\WinForms_homework3_2_bestOil.pdb
+D:\Академия ШАГ\Windows Forms\WinForms_code\WinForms_homework3_2_bestOil\WinForms_homework3_2_bestOil\obj\Debug\WinForms_homework3_2_bestOil.csprojAssemblyReference.cache
+D:\Академия ШАГ\Windows Forms\WinForms_code\WinForms_homework3_2_bestOil\WinForms_homework3_2_bestOil\obj\Debug\WinForms_homework3_2_bestOil.Form1.resources
+D:\Академия ШАГ\Windows Forms\WinForms_code\WinForms_homework3_2_bestOil\WinForms_homework3_2_bestOil\obj\Debug\WinForms_homework3_2_bestOil.Properties.Resources.resources
+D:\Академия ШАГ\Windows Forms\WinForms_code\WinForms_homework3_2_bestOil\WinForms_homework3_2_bestOil\obj\Debug\WinForms_homework3_2_bestOil.csproj.GenerateResource.cache
+D:\Академия ШАГ\Windows Forms\WinForms_code\WinForms_homework3_2_bestOil\WinForms_homework3_2_bestOil\obj\Debug\WinForms_homework3_2_bestOil.csproj.CoreCompileInputs.cache
+D:\Академия ШАГ\Windows Forms\WinForms_code\WinForms_homework3_2_bestOil\WinForms_homework3_2_bestOil\obj\Debug\WinForms_homework3_2_bestOil.exe
+D:\Академия ШАГ\Windows Forms\WinForms_code\WinForms_homework3_2_bestOil\WinForms_homework3_2_bestOil\obj\Debug\WinForms_homework3_2_bestOil.pdb
