@@ -1,0 +1,10 @@
+D:\Академия ШАГ\Windows Forms\WinForms_code\c-sharp_test_from_marchenko_oleksandr\c-sharp_test_from_marchenko_oleksandr\bin\Debug\c-sharp_test_from_marchenko_oleksandr.exe.config
+D:\Академия ШАГ\Windows Forms\WinForms_code\c-sharp_test_from_marchenko_oleksandr\c-sharp_test_from_marchenko_oleksandr\bin\Debug\c-sharp_test_from_marchenko_oleksandr.exe
+D:\Академия ШАГ\Windows Forms\WinForms_code\c-sharp_test_from_marchenko_oleksandr\c-sharp_test_from_marchenko_oleksandr\bin\Debug\c-sharp_test_from_marchenko_oleksandr.pdb
+D:\Академия ШАГ\Windows Forms\WinForms_code\c-sharp_test_from_marchenko_oleksandr\c-sharp_test_from_marchenko_oleksandr\obj\Debug\c-sharp_test_from_marchenko_oleksandr.csprojAssemblyReference.cache
+D:\Академия ШАГ\Windows Forms\WinForms_code\c-sharp_test_from_marchenko_oleksandr\c-sharp_test_from_marchenko_oleksandr\obj\Debug\c_sharp_test_from_marchenko_oleksandr.Form1.resources
+D:\Академия ШАГ\Windows Forms\WinForms_code\c-sharp_test_from_marchenko_oleksandr\c-sharp_test_from_marchenko_oleksandr\obj\Debug\c_sharp_test_from_marchenko_oleksandr.Properties.Resources.resources
+D:\Академия ШАГ\Windows Forms\WinForms_code\c-sharp_test_from_marchenko_oleksandr\c-sharp_test_from_marchenko_oleksandr\obj\Debug\c-sharp_test_from_marchenko_oleksandr.csproj.GenerateResource.cache
+D:\Академия ШАГ\Windows Forms\WinForms_code\c-sharp_test_from_marchenko_oleksandr\c-sharp_test_from_marchenko_oleksandr\obj\Debug\c-sharp_test_from_marchenko_oleksandr.csproj.CoreCompileInputs.cache
+D:\Академия ШАГ\Windows Forms\WinForms_code\c-sharp_test_from_marchenko_oleksandr\c-sharp_test_from_marchenko_oleksandr\obj\Debug\c-sharp_test_from_marchenko_oleksandr.exe
+D:\Академия ШАГ\Windows Forms\WinForms_code\c-sharp_test_from_marchenko_oleksandr\c-sharp_test_from_marchenko_oleksandr\obj\Debug\c-sharp_test_from_marchenko_oleksandr.pdb
